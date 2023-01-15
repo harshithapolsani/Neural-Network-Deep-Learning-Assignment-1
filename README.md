@@ -15,4 +15,6 @@
 **In the third question:**
 
 - I am reading the percentage from the console using input() and converting it to int using int().
-- I am using if, elif and else conditions to filter the percentage and allot the related grade to it.
+- I am using if, elif and else conditions to filter the percentage and allot the related grade to it.\
+
+! [Alt text](image_1)
